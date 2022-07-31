@@ -1,5 +1,5 @@
 # happy_number_finder
-Finding the given number is a happy number or not using recursion method in python (including error handling)
+Checking if the given number is a happy number or not using recursion method in python (including error handling)
 
 a happy number is a number which eventually reaches 1 when replaced by the sum of the square of each digit.
 for example 10,13,17,etc
