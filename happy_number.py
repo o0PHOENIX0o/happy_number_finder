@@ -9,9 +9,9 @@ def Happy_number(num):
     else:
         return sum
 while True:
-    number = input('enter a number ')
+    number = input('enter a number or Type Exit/Done/Quit to Stop :\n')
     if number.lower() in ['exit','done','quit']:
-        print('\n\t\tprograme terminated\n')
+        print('\n\t\tProgram Terminated\n')
         break
     else:
         try:
